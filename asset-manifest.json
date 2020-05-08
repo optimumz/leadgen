@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leadgen/static/css/main.d1b05096.chunk.css",
+    "main.js": "/leadgen/static/js/main.86872db4.chunk.js",
+    "main.js.map": "/leadgen/static/js/main.86872db4.chunk.js.map",
+    "runtime-main.js": "/leadgen/static/js/runtime-main.6bf67275.js",
+    "runtime-main.js.map": "/leadgen/static/js/runtime-main.6bf67275.js.map",
+    "static/js/2.12679a76.chunk.js": "/leadgen/static/js/2.12679a76.chunk.js",
+    "static/js/2.12679a76.chunk.js.map": "/leadgen/static/js/2.12679a76.chunk.js.map",
+    "index.html": "/leadgen/index.html",
+    "precache-manifest.35607fe9eefdeb4d8e153b9a20f4118a.js": "/leadgen/precache-manifest.35607fe9eefdeb4d8e153b9a20f4118a.js",
+    "service-worker.js": "/leadgen/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/leadgen/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.12679a76.chunk.js.LICENSE.txt": "/leadgen/static/js/2.12679a76.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/leadgen/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bf67275.js",
+    "static/js/2.12679a76.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.86872db4.chunk.js"
+  ]
+}
